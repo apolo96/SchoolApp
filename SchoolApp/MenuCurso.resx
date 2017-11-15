@@ -117,41 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="CAF_CNR_Blog-770x462" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\CAF_CNR_Blog-770x462.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="58" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\58.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="photo_2017-11-13_12-34-18" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\photo_2017-11-13_12-34-18.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="19news_19news_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\19news_19news_4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="econ01-080316-adobe" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\econ01-080316-adobe.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="MeriendaEscolar" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\MeriendaEscolar.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Children-at-School" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Children-at-School.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="test-que-tipo-de-estudiante-es-tu-hijo-001-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\test-que-tipo-de-estudiante-es-tu-hijo-001-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="desayuno_t670x470" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\desayuno_t670x470.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="mejores-apps-dentales4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mejores-apps-dentales4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="School-backgrounds-8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\School-backgrounds-8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="me" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\me.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>

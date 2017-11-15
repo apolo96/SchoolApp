@@ -16,5 +16,24 @@ namespace SchoolApp
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MenuMaestro Menu = new MenuMaestro();
+            Menu.Show();
+            Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MenuCocinero Menu = new MenuCocinero();
+            Menu.Show();
+            Hide();
+        }
     }
 }

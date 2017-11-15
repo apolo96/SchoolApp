@@ -45,14 +45,91 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AgregarEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarEstudiante.Designer.cs">
+      <DependentUpon>AgregarEstudiante.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="ListaAlmuerzo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaAlmuerzo.Designer.cs">
+      <DependentUpon>ListaAlmuerzo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListaAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaAlumnos.Designer.cs">
+      <DependentUpon>ListaAlumnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListaDesayunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaDesayunos.Designer.cs">
+      <DependentUpon>ListaDesayunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListaMerienda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaMerienda.Designer.cs">
+      <DependentUpon>ListaMerienda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuCocinero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuCocinero.Designer.cs">
+      <DependentUpon>MenuCocinero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuCurso.Designer.cs">
+      <DependentUpon>MenuCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuMaestro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuMaestro.Designer.cs">
+      <DependentUpon>MenuMaestro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModelDataBase.cs" />
+    <Compile Include="ParameterSp.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AgregarEstudiante.resx">
+      <DependentUpon>AgregarEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaAlmuerzo.resx">
+      <DependentUpon>ListaAlmuerzo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaAlumnos.resx">
+      <DependentUpon>ListaAlumnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaDesayunos.resx">
+      <DependentUpon>ListaDesayunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaMerienda.resx">
+      <DependentUpon>ListaMerienda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuCocinero.resx">
+      <DependentUpon>MenuCocinero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuCurso.resx">
+      <DependentUpon>MenuCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuMaestro.resx">
+      <DependentUpon>MenuMaestro.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -61,6 +138,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -74,6 +152,42 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\econ01-080316-adobe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\School-backgrounds-8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CAF_CNR_Blog-770x462.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mejores-apps-dentales4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Children-at-School.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19news_19news_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test-que-tipo-de-estudiante-es-tu-hijo-001-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo_2017-11-13_12-34-18.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desayuno_t670x470.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\58.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MeriendaEscolar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\me.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
